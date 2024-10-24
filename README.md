@@ -14,33 +14,27 @@ This project is a face recognition-based attendance system that captures video f
 
 1. **Clone the repository:**
    
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone <your_repository-url>,
+   cd <your_repository-directory>
 
 
-`````````````````````++++++++++++++++++++++++++++++++++++++++++++++++```````````````````
-`````````````````````================================================```````````````````
 
 
 # make sure there is a WEBCAM attatched to the machine you're working on!!!!
 # make sure to follow the instructions to run the code without complication:
 # terminal
-pip install cmake
-pip install face_recognition
-pip install opencv-python
-pip install numPy
+pip install cmake,
+pip install face_recognition,
+pip install opencv-python,
+pip install numPy,
 
 
-`````````````````````++++++++++++++++++++++++++++++++++++++++++++++++```````````````````
-`````````````````````================================================```````````````````
 
 # add images of students to the /faces directory 
 # tweak the code according to requirement
 # run main.py to see the code in action
 
 
-`````````````````````++++++++++++++++++++++++++++++++++++++++++++++++```````````````````
-`````````````````````================================================```````````````````
 # structure
 .
 ├── faces
