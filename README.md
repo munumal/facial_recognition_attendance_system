@@ -36,14 +36,6 @@ pip install numPy,
 
 
 # structure
-.
-├── faces
-│   ├── musa.jpg
-│   ├── prantor.jpg
-│   └── asraful.jpg
-├── main.py
-├── <date>.csv
-└── README.md
 
 faces/: Directory containing images of known individuals.
 
